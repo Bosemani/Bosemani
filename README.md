@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bosemani
-- 👀 I’m interested in Embedded programming
-- 🌱 I’m currently learning Embedded systems
+- 👀 Embedded Firmware Developer
+- 🌱 Intrested In Zigbee, BLE, WiFi . Sub-Ghz
 
 <!---
 Bosemani/Bosemani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
